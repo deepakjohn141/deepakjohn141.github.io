@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    margin: 50px;
+}
+div {
+    margin: 0px;
+    padding: 0px;
+}
+h3 {
+    padding: 20px;
+}
+h5, p {
+    padding-left: 20px;
+}
